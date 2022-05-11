@@ -1,0 +1,5 @@
+﻿  String.cpp
+E:\mong\String\String\String.cpp(45,25): warning C4838: 'int'에서 'char'(으)로의 변환에는 축소 변환이 필요합니다.
+E:\mong\String\String\String.cpp(45,46): warning C4305: '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+E:\mong\String\String\String.cpp(45,25): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  String.vcxproj -> E:\mong\String\x64\Debug\String.exe

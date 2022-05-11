@@ -1,0 +1,4 @@
+﻿E:\VisualStudio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(cll_stack.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  cll_stack.cpp
+E:\mong\cll_stack\cll_stack\cll_stack.cpp(38,15): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  cll_stack.vcxproj -> E:\mong\cll_stack\x64\Debug\call_stack.exe
